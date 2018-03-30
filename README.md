@@ -9,4 +9,4 @@ For this project, we purchased two datasets from www.bigdataball.com and perform
 -	Performed the k-prototype algorithm on the data. We ran the k-prototype algorithm using different number of clusters and evaluated each of them using the Silhouette index. 
 -	Similarly, we performed EM (Expectation-Maximization) Clustering, and used the Bayesian Information Criterion (BIC) to evaluate the right number of clusters and parameters.
 
-This research was published in the proceedings of the Institute of Industrial and Systems Engineering (IISE) Annual Conference in 2017. (https://www.xcdsystem.com/iise/2017_proceedings/prof3171.html
+This research was published in the proceedings of the Institute of Industrial and Systems Engineering (IISE) Annual Conference in 2017. (https://www.xcdsystem.com/iise/2017_proceedings/prof3171.html)
